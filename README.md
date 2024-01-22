@@ -1,5 +1,4 @@
-## 
-## -Evaluación
+## Evaluación
 
 ## Etapa 1. Descripción  del problema
 Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos 
@@ -7,24 +6,27 @@ los alumnos de un salón de clase. Determinar y mostrar el promedio de las calif
 en un resumen con los datos de los estudiantes.
 
 ## Etapa 2. Especificaciones
-Entrada: datos de los estudiantes
--Estudiante: nombre, apellido, grupo, carrera
--Asignatura: calificaciones, nombre de la asignatura
+Entrada: datos de los libros 
+-Registro: titulo, editorial ISBN,fecha de publicación, idioma, formato, ilustraciones
+-Libro: autor, genero, numero de paginas
 Proceso:
--Calcular el promedio de las calificaciones finales
--promedio = SumaDeCalificaciones / totalDeCalificaciones
+-Registrar losdatos ingresados del libro
 Salida:
--Resumen de los datos del estudiante con su promedio
+-Resumen de los datos del libro registrado
 ~~~
 -------------------------------------------------------
-Estudiante: DULCE MARIA SANTOS PEREZ
-Grupo: 1A  Carrera:INGENIERÍA INFORMÁTICA
-Asignatura: calificación
-FUNDAMENTOS DE PROGRAMACIÓN     74
-
-MATEMÁTICAS DISCRETAS           87
+Objeto registrado: 
+Titulo: Tema
+ISBN: 12344321
+Idioma: Espa�ol
+Editorial: Editorial
+Numero de ilustraciones: 12
+Fecha de publicacion: 12 de noviembre del 2023
+Formato: PDF
+Autor: Lalo
+Genero: Clasico
+Numero de paginas: 12
 -------------------------------------------------------
-PROMEDIO                        90
 ~~~
 ## Etapa 3. Diseño de la solución
 Diagrama de la clase
