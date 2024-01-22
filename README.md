@@ -1,9 +1,7 @@
 ## Evaluación
 
-## Etapa 1. Descripción  del problema
-Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos 
-los alumnos de un salón de clase. Determinar y mostrar el promedio de las calificaciones finales 
-en un resumen con los datos de los estudiantes.
+## Etapa 1. Planteamiento
+Se propone realizar una aplicación de registro de los libros de un Biblioteca, se tomaran los datos de los libros como el nombre del libro, editorial, fecha de publicación, etc.
 
 ## Etapa 2. Especificaciones
 Entrada: datos de los libros 
