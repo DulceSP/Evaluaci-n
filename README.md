@@ -28,8 +28,9 @@ PROMEDIO                        90
 ~~~
 ## Etapa 3. Diseño de la solución
 Diagrama de la clase
-![](https://github.com/DulceSP/Ejercicio-Calificaciones/blob/main/Diagrama_Prom.png)
+![](https://github.com/DulceSP/Evaluaci-n/blob/main/Imagen%20de%20WhatsApp%202024-01-22%20a%20las%2012.38.26_9c674b84.jpg)
 
 ## Etapa 4. Desarrollo de la solución
 
-https://github.com/DulceSP/Ejercicio-Calificaciones/blob/main/t3A1_32.zip
+https://github.com/DulceSP/Evaluaci-n/blob/main/Biblioteca.rar
+
